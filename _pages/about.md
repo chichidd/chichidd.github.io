@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**Research interest**: security & privacy issues in machine learning, machine learning for security.
 
 Bio
 ------
