@@ -18,8 +18,19 @@ Bio
 * Doctor in Computer Science, advised by [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/), Shanghai Jiao Tong University, 2022 - present
 
 
-Publication
+Publications
 ------
-TODO
+1.**<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based onEfficiency-preserving Federated Learning**  
+**Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
+_IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
+1.**<small>[CCS'21]</small> Hidden Backdoors in Human-Centric Language Models**  
+Shaofeng Li, Hui Liu, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu and Jialiang Lu.  
+_ACM Conference on Computer and Communications Security_, Virtual Conference, Nov. 2021.
+[[pdf]](https://arxiv.org/abs/2105.00164)  
+1.**<small>[IoT-J]</small> Adversarial Attacks against Network Intrusion Detection in IoT Systems**  
+Han Qiu, **Tian Dong**, Tianwei Zhang, Jialiang Lu, Gerard Memmi, and Meikang Qiu.  
+_IEEE Internet of Things Journal_, Dec. 2020.
+
+
 
 Last updated: 2021/09/28.
