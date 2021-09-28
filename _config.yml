@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Dong (董天)"
+title                    : "Tian Dong's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tian Dong"
 description              : &description "personal description"
 url                      : https://chichidd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tian Dong (董天)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "0-th year PhD student of Shanghai Jiao Tong University."
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
