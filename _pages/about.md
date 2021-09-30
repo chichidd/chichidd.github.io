@@ -20,7 +20,7 @@ Bio
 
 Publications
 ------
-1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based onEfficiency-preserving Federated Learning**  
+1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
 _IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
 1. **<small>[CCS'21]</small> Hidden Backdoors in Human-Centric Language Models**  
