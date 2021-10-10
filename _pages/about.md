@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 **Main Research interest**: Computer Security, Machine Learning and Cryptography.
-***Secondary research interest***: Theoretical computer science, Applied & Pure mathematics, Physics.
+
+*Secondary research interest*: Theoretical computer science, Applied & Pure mathematics, Physics.
+
 Bio
 ------
 * Bachelor in French, Shanghai Jiao Tong University, China, 2015-2019
