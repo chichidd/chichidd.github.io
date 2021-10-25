@@ -10,14 +10,14 @@ redirect_from:
 
 **Main Research interest**: Computer Security, Machine Learning and Cryptography.
 
-*Secondary research interest*: Theoretical computer science, Applied & Pure mathematics, Physics (Quantum computing, etc.).
+*Also interested in*: Theoretical computer science, Applied & Pure mathematics, Physics (Quantum computing, etc.).
 
 Bio
 ------
 * Bachelor in French, Shanghai Jiao Tong University (SJTU), China, 2015-2019
 * Diplôme d'Ingénieur (X2017), École polytechnique (X), France, 2018-2021
 * Master in Electronics and Communication Engineering (advised by Associate Professor Jialiang Lu), SJTU, China, 2019-2022 (expected)
-* Doctor in Computer Science (advised by Professor [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)), SJTU, China, 2022 - present
+* Doctor in Computer Science (advised by Professor [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)), SJTU, China, 2022 (expected) - present
 
 
 Publications
