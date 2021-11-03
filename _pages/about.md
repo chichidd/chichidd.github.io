@@ -25,6 +25,7 @@ Publications
 1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
 _IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
+[[pdf]](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a468/264600a468.pdf) 
 1. **<small>[CCS'21]</small> Hidden Backdoors in Human-Centric Language Models**  
 Shaofeng Li, Hui Liu, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu and Jialiang Lu.  
 _ACM Conference on Computer and Communications Security_, Virtual Conference, Nov. 2021.
