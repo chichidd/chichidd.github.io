@@ -14,7 +14,7 @@ redirect_from:
 
 Bio
 ------
-* Bachelor in French, Shanghai Jiao Tong University (SJTU), China, 2015-2019
+* Bachelor in French, [SJTU Paris Elite Institute of Technology](https://speit.sjtu.edu.cn/indexen!index.html), Shanghai Jiao Tong University (SJTU), China, 2015-2019
 * Diplôme d'Ingénieur (X2017), École polytechnique (X), France, 2018-2021
 * Master in Electronics and Communication Engineering (advised by Associate Professor Jialiang Lu), SJTU, China, 2019-2022 (expected)
 * Doctor in Computer Science (advised by Professor [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)), SJTU, China, 2022 (expected) - present
