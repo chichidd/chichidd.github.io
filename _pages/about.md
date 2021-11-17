@@ -29,7 +29,7 @@ _IEEE International Symposium on Parallel and Distributed Processing with Applic
 1. **<small>[CCS'21]</small> Hidden Backdoors in Human-Centric Language Models**  
 Shaofeng Li, Hui Liu, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu and Jialiang Lu.  
 _ACM Conference on Computer and Communications Security_, Virtual Conference, Nov. 2021.
-[[pdf]](https://arxiv.org/abs/2105.00164) <font color="#dd0000">_Best Paper Runner-up_</font>.
+[[pdf]](https://arxiv.org/abs/2105.00164) <font color="#dd0000">Best Paper Runner-up</font>.
 1. **<small>[IoT-J]</small> Adversarial Attacks against Network Intrusion Detection in IoT Systems**  
 Han Qiu, **Tian Dong**, Tianwei Zhang, Jialiang Lu, Gerard Memmi, and Meikang Qiu.  
 _IEEE Internet of Things Journal_, Dec. 2020.
