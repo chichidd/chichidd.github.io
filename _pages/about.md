@@ -10,7 +10,7 @@ redirect_from:
 
 **Main Research interest**: Computer Security, Machine Learning and Cryptography.
 
-*Also interested in*: Theoretical computer science, Applied & Pure mathematics, Physics (Quantum computing, etc.).
+<!-- *Also interested in*: Theoretical computer science, Applied & Pure mathematics, Physics (Quantum computing, etc.). -->
 
 Bio
 ------
@@ -22,6 +22,10 @@ Bio
 
 Publications
 ------
+1. **<small>[ICML'22]</small> Privacy for Free: How does Dataset Condensation Help Privacy?**  
+**Tian Dong**, Bo Zhao, and Lingjuan Lyu.  
+_39 th International Conference on Machine Learning_, Baltimore, Maryland, USA, 2022.
+<font color="#dd0000">Long Presentation</font>
 1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
 _IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
@@ -36,4 +40,4 @@ _IEEE Internet of Things Journal_, Dec. 2020.
 
 
 
-Last updated: 2021/09/28.
+Last updated: 2022/05/15.
