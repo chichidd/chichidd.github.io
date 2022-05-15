@@ -39,5 +39,9 @@ Han Qiu, **Tian Dong**, Tianwei Zhang, Jialiang Lu, Gerard Memmi, and Meikang Qi
 _IEEE Internet of Things Journal_, Dec. 2020.
 [[pdf]](https://ieeexplore.ieee.org/document/9311132)
 
+Service
+------
+Conference: ICML (2022), ECCV (2022), NeurIPS (2022)
+Journal: Peer-to-Peer Networking and Applications (PPNA)
 
 Last updated: 2022/05/15.
