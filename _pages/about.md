@@ -22,6 +22,10 @@ Bio
 
 Publications
 ------
+1. **<small>[IEEE S&P Magazine]</small> Backdoors Against Natural Language Processing: A Review**  
+Shaofeng Li, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Suguo Du and Haojin Zhu.  
+_IEEE Security & Privacy_, 2022.
+[[pdf]]()<font color="#dd0000"> Long Presentation (rate: 118/5630=2.1%)</font>
 1. **<small>[ICML'22]</small> Privacy for Free: How does Dataset Condensation Help Privacy?**  
 **Tian Dong**, Bo Zhao, and Lingjuan Lyu.  
 _The 39<sup>th</sup> International Conference on Machine Learning_, Baltimore, Maryland, USA, 2022.
@@ -43,7 +47,8 @@ Service
 ------
 * Conference: 
   - Reviewer: ICML (2022), ECCV (2022), NeurIPS (2022)
-* Journal: Peer-to-Peer Networking and Applications (PPNA)
+* Journal: 
+  - Reviewer: Peer-to-Peer Networking and Applications (PPNA), IEEE Internet of Things Journal (IoT-J)
 
 ------
-Last updated: 2022/05/29.
+Last updated: 2022/06/01.
