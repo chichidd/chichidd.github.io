@@ -29,7 +29,7 @@ _IEEE Security & Privacy_, 2022.
 1. **<small>[ICML'22]</small> Privacy for Free: How does Dataset Condensation Help Privacy?**  
 **Tian Dong**, Bo Zhao, and Lingjuan Lyu.  
 _The 39<sup>th</sup> International Conference on Machine Learning_, Baltimore, Maryland, USA, 2022.
-[[pdf]]()<font color="#dd0000"> Long Presentation (rate: 118/5630=2.1%)</font>
+[[pdf]](https://arxiv.org/pdf/2206.00240.pdf)<font color="#dd0000"> Long Presentation (rate: 118/5630=2.1%)</font>
 1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
 _IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
