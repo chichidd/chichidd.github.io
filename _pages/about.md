@@ -25,11 +25,11 @@ Publications
 1. **<small>[INFOCOM'23]</small> Backdoors Against Natural Language Processing: A Review**  
 **Tian Dong**, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li and Terry Wang.  
 _IEEE International Conference on Computer Communications_, 2023.
-[[pdf]](https://ieeexplore.ieee.org/document/9841511)
+<!-- [[pdf]](https://ieeexplore.ieee.org/document/9841511) -->
 1. **<small>[NDSS'23]</small> RAI $^2$: Responsible Identity Audit Governing the Artificial Intelligence**  
 **Tian Dong**, Shaofeng Li, Guoxing Chen, Minhui Xue, Haojin Zhu and Zhen Liu.  
 _Network and Distributed System Security Symposium_, 2023.
-[[pdf]](https://ieeexplore.ieee.org/document/9841511)
+<!-- [[pdf]](https://ieeexplore.ieee.org/document/9841511) -->
 1. **<small>[IEEE S&P Magazine]</small> Backdoors Against Natural Language Processing: A Review**  
 Shaofeng Li, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Suguo Du and Haojin Zhu.  
 _IEEE Security & Privacy_, 2022.
@@ -37,7 +37,7 @@ _IEEE Security & Privacy_, 2022.
 1. **<small>[ICML'22]</small> Privacy for Free: How does Dataset Condensation Help Privacy?**  
 **Tian Dong**, Bo Zhao, and Lingjuan Lyu.  
 _The 39<sup>th</sup> International Conference on Machine Learning_, Baltimore, Maryland, USA, 2022.
-[[pdf]](https://arxiv.org/pdf/2206.00240.pdf)<font color="#dd0000"> Long Presentation (rate: 118/5630=2.1%)</font>
+[[pdf]](https://arxiv.org/pdf/2206.00240.pdf)
 1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
 _IEEE International Symposium on Parallel and Distributed Processing with Applications_, Virtual Conference, Oct. 2021.
@@ -45,11 +45,25 @@ _IEEE International Symposium on Parallel and Distributed Processing with Applic
 1. **<small>[CCS'21]</small> Hidden Backdoors in Human-Centric Language Models**  
 Shaofeng Li, Hui Liu, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu and Jialiang Lu.  
 _ACM Conference on Computer and Communications Security_, Virtual Conference, Nov. 2021.
-[[pdf]](https://arxiv.org/abs/2105.00164) <font color="#dd0000">Best Paper Runner-Ups Award (rate: 10/879=1.1%)</font>.
+[[pdf]](https://arxiv.org/abs/2105.00164) 
+
 1. **<small>[IoT-J]</small> Adversarial Attacks against Network Intrusion Detection in IoT Systems**  
 Han Qiu, **Tian Dong**, Tianwei Zhang, Jialiang Lu, Gerard Memmi, and Meikang Qiu.  
 _IEEE Internet of Things Journal_, Dec. 2020.
 [[pdf]](https://ieeexplore.ieee.org/document/9311132)
+
+
+Awards & Honor
+------
+First-class Network Security Scholarship (“一流网安”奖学金), 2022
+
+ICML 2022 Outstanding Paper Award, 2022
+
+Shanghai Outstanding Graduate, 2022
+
+ACM CCS 2021 Best Paper Award Runner-up, 2021
+
+<!-- <font color="#dd0000"> (rate: 10/879=1.1%)</font>. -->
 
 Service
 ------
@@ -57,6 +71,9 @@ Service
   - Reviewer: ICML (2022), ECCV (2022), NeurIPS (2022), CVPR (2023)
 * Journal: 
   - Reviewer: Peer-to-Peer Networking and Applications (PPNA), IEEE Internet of Things Journal (IoT-J)
+
+
+
 
 ------
 Last updated: 2022/12/02.
