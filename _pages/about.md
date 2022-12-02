@@ -22,7 +22,7 @@ Bio
 
 Publications
 ------
-1. **<small>[INFOCOM'23]</small> Backdoors Against Natural Language Processing: A Review**  
+1. **<small>[INFOCOM'23]</small> Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing**  
 **Tian Dong**, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li and Terry Wang.  
 _IEEE International Conference on Computer Communications_, 2023.
 <!-- [[pdf]](https://ieeexplore.ieee.org/document/9841511) -->
