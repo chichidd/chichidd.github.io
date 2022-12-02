@@ -14,10 +14,10 @@ redirect_from:
 
 Bio
 ------
-* Bachelor in French, Shanghai Jiao Tong University (SJTU), 2015-2019
+* B.A. in French, Shanghai Jiao Tong University (SJTU), 2015-2019
 * Diplôme d'Ingénieur (X2017), École polytechnique (X), 2018-2021
-* Master in Electronics and Communication Engineering, SJTU, 2019-2022
-* Doctor in Computer Science (advised by Prof. [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)), SJTU, 2022 - present
+* M.S. in Electronics and Communication Engineering, SJTU, 2019-2022
+* Ph.D. in Computer Science (advised by Prof. [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)), SJTU, 2022 - present
 
 
 Publications
