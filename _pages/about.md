@@ -22,6 +22,14 @@ Bio
 
 Publications
 ------
+1. **<small>[INFOCOM'23]</small> Backdoors Against Natural Language Processing: A Review**  
+**Tian Dong**, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li and Terry Wang.  
+_IEEE International Conference on Computer Communications_, 2023.
+[[pdf]](https://ieeexplore.ieee.org/document/9841511)
+1. **<small>[NDSS'23]</small> RAI$^2$: Responsible Identity Audit Governing the Artificial Intelligence**  
+**Tian Dong**, Shaofeng Li, Guoxing Chen, Minhui Xue, Haojin Zhu and Zhen Liu.  
+_Network and Distributed System Security Symposium_, 2023.
+[[pdf]](https://ieeexplore.ieee.org/document/9841511)
 1. **<small>[IEEE S&P Magazine]</small> Backdoors Against Natural Language Processing: A Review**  
 Shaofeng Li, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Suguo Du and Haojin Zhu.  
 _IEEE Security & Privacy_, 2022.
@@ -46,9 +54,9 @@ _IEEE Internet of Things Journal_, Dec. 2020.
 Service
 ------
 * Conference: 
-  - Reviewer: ICML (2022), ECCV (2022), NeurIPS (2022)
+  - Reviewer: ICML (2022), ECCV (2022), NeurIPS (2022), CVPR (2023)
 * Journal: 
   - Reviewer: Peer-to-Peer Networking and Applications (PPNA), IEEE Internet of Things Journal (IoT-J)
 
 ------
-Last updated: 2022/06/01.
+Last updated: 2022/12/02.
