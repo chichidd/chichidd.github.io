@@ -26,7 +26,7 @@ Publications
 **Tian Dong**, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li and Terry Wang.  
 _IEEE International Conference on Computer Communications_, 2023.
 <!-- [[pdf]](https://ieeexplore.ieee.org/document/9841511) -->
-1. **<small>[NDSS'23]</small> RAI $^2$: Responsible Identity Audit Governing the Artificial Intelligence**  
+1. **<small>[NDSS'23]</small> $\text{RAI}^2$: Responsible Identity Audit Governing the Artificial Intelligence**  
 **Tian Dong**, Shaofeng Li, Guoxing Chen, Minhui Xue, Haojin Zhu and Zhen Liu.  
 _Network and Distributed System Security Symposium_, 2023.
 <!-- [[pdf]](https://ieeexplore.ieee.org/document/9841511) -->
