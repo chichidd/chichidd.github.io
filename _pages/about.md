@@ -27,6 +27,11 @@ Selected Publications
 _Network and Distributed System Security Symposium_, 2025.
 [[pdf]](https://arxiv.org/abs/2312.00374)
 
+1. **<small>[ICCC'24]</small> BrInstFlip: A Universal Tool for Attacking DNN-Based Power Line Fault Detection Models**  
+Yixin Jiang, Yanbo Xu, Zhihong Liang, Wenqian Xu, **Tian Dong**, Ximing Zhang, Yiwei Yang, Yan Meng and Haojin Zhu.  
+_IEEE/CIC International Conference on Communications in China_, 2024.
+*<font color='red'>Best Paper Award</font>* 
+
 1. **<small>[S&P'24]</small> Learn what you want to unlearn: Unlearning inversion attacks against machine unlearning**  
 Hongsheng Hu, Shuo Wang, **Tian Dong**, Minhui Xue.  
 _IEEE Symposium on Security and Privacy_, 2024.
@@ -36,6 +41,7 @@ _IEEE Symposium on Security and Privacy_, 2024.
 Ruoxi Sun, Minhui Xue, Gareth Tyson, **Tian Dong**, Shaofeng Li, Shuo Wang, Haojin Zhu, Seyit Camtepe, Surya Nepal.  
 _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering_, 2023.
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3611643.3616309)
+*<font color=red>Distinguished Paper Award</font>* 
 
 1. **<small>[INFOCOM'23]</small> Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing**  
 **Tian Dong**, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li and Terry Wang.  
@@ -56,6 +62,7 @@ _IEEE Security & Privacy_, 2022.
 **Tian Dong**, Bo Zhao, and Lingjuan Lyu.  
 _The 39<sup>th</sup> International Conference on Machine Learning_, Baltimore, Maryland, USA, 2022.
 [[pdf]](https://arxiv.org/pdf/2206.00240.pdf)
+*<font color=red>Outstanding Paper Award</font>*
 
 1. **<small>[ISPA'21]</small> Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning**  
 **Tian Dong**, Han Qiu, Jialiang Lu, Meikang Qiu, and Chun Fan.  
@@ -66,6 +73,7 @@ _IEEE International Symposium on Parallel and Distributed Processing with Applic
 Shaofeng Li, Hui Liu, **Tian Dong**, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu and Jialiang Lu.  
 _ACM Conference on Computer and Communications Security_, Virtual Conference, Nov. 2021.
 [[pdf]](https://arxiv.org/abs/2105.00164) 
+*<font color=red>Best Paper Award (Runner-Ups)</font>*
 
 1. **<small>[IoT-J]</small> Adversarial Attacks against Network Intrusion Detection in IoT Systems**  
 Han Qiu, **Tian Dong**, Tianwei Zhang, Jialiang Lu, Gerard Memmi, and Meikang Qiu.  
@@ -95,15 +103,27 @@ ACM CCS 2021 Best Paper Award Runner-up, 2021
 
 Service
 ------
-* Conference: 
-  - Reviewer: ICML (2022-2024), NeurIPS (2022-2024), ICLR (2024), CVPR (2023-2024), ECCV (2022,2024), ICCV (2023), WWW (2024), Usenix Security Artefact (2024), ACM CCS Artefact (2024)
+* Conference Reviewer:
+  - ICML (2022-2024)
+  - NeurIPS (2022-2024)
+  - ICLR (2024)
+  - CVPR (2023-2024)
+  - ECCV (2022,2024)
+  - ICCV (2023)
+  - WWW (2024)
+  - Usenix Security Artifact (2024)
+  - ACM CCS Artifact (2024)
 
-* Journal: 
-  - Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Wireless Communications (TWC), Peer-to-Peer Networking and Applications (PPNA), IEEE Internet of Things Journal (IoT-J)
+* Journal Reviewer: 
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Wireless Communications (TWC)
+  - Peer-to-Peer Networking and Applications (PPNA)
+  - IEEE Internet of Things Journal (IoT-J)
 
 
 
 
 
 ------
-Last updated: 2022/12/02.
+Last updated: 2024/08/12.
